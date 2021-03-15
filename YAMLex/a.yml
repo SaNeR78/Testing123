@@ -1,0 +1,8 @@
+- games:
+      games_id: 1
+      games_name: 'One'
+      games_date: 2021-02-18
+- games1:
+      games_id1: 1
+      games_name1: 'One'
+      games_date1: 2021-02-18
